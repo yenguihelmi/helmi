@@ -1,4 +1,5 @@
 <?php
 echo "ok"
 echo "no"
+echo "to be or no to be"
 ?>
